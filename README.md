@@ -87,7 +87,7 @@ I'm currently looking for opportunities as a **Frontend Developer**, where I can
 ## 📫 Connect With Me
 
 - GitHub: [@Emir145813](https://github.com/Emir145813)
-- Email: (amirpadban.176@gmail.com)
+- Email: amirpadban.176@gmail.com
 
 ---
 
